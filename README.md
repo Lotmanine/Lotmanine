@@ -22,6 +22,7 @@ Most of my client work is under NDA, so the repositories below are either built 
 | Repository | What it shows |
 |---|---|
 | [crm-migration-toolkit](https://github.com/Lotmanine/crm-migration-toolkit) | Platform-agnostic CRM/ESP migration pipeline: export adapters, field + consent mapping, suppression merge, import, and a post-migration integrity report. Runs on synthetic sample data. |
+| [learndash-roadmap-plugin](https://github.com/Lotmanine/learndash-roadmap-plugin) | Custom WordPress plugin: a visual course roadmap integrating LearnDash + Memberium + Keap (CRM). Ownership/access gating, CRM tag automation on completion, CPTs, taxonomies, shortcodes. |
 | [email-deliverability-audit](https://github.com/Lotmanine/email-deliverability-audit) | Domain deliverability checker: SPF/DKIM/DMARC/MX lookups rolled into a scored audit report. |
 | [shopify-dawn-sections](https://github.com/Lotmanine/shopify-dawn-sections) | Custom Shopify (Dawn) theme sections in Liquid: a multi-pack product selector, best-sellers carousel, and product-family cards. |
 
